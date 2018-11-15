@@ -21,6 +21,7 @@ module.exports = {
     }
   },
   devServer: {
+    // app相当于是express函数的返回值
     before (app) {
       app.get('/api/seller', function (req, res) {
         res.json({
