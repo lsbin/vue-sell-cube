@@ -15,7 +15,7 @@ export default {
   }
 }
 </script>
-<style lang="stylus">
+<style lang="stylus" type="text/stylus">
 #app
   font-family 'Avenir', Helvetica, Arial, sans-serif
   -webkit-font-smoothing antialiased
